@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jagrit Popli
-- 👀 I’m interested in Android and web development
-- 🌱 I’m currently learning React and Android Studio
+- 👀 I’m interested in Android and DBMS
+- 🌱 I’m currently learning Android Studio
 - 📫 How to reach me jagritpopli45@gmail.com
 
 <!---
